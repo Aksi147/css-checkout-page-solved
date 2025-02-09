@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "@playwright/test": "^1.49.1",
+    "braces": "^3.0.3",
+    "i": "^0.3.7",
     "live-server": "^1.2.2"
   }
 }
